@@ -23,12 +23,14 @@ Usage:
 5. Examination: Enter marks and view results.
 6. Fee Details: View, add, submit, and update fee details.
 7. Utilities: Use the included notepad and calculator for convenience.
+   
 How to use:
 
 1. Clone the repository to your local machine.
 2. Ensure you have Java and MySQL installed.
 3. Set up the MySQL database and update the JDBC connection details in the code.
 4. Compile and run the Java files to launch the application.
+   
 Contributing: Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to submit a pull request.
 
 License: This project is licensed under the MIT License. Feel free to use and modify it for your educational or personal projects.1.
